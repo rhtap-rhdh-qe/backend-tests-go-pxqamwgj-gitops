@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: artifactory-docker-artifactory-jcr2.apps.rosa.rhtap-services.xmdt.p3.openshiftapps.com/rhtap/backend-tests-go-pxqamwgj:github-2faea1530ef4a05ca215dd282d8308aa8a5a017a
+        - image: artifactory-docker-artifactory-jcr2.apps.rosa.rhtap-services.xmdt.p3.openshiftapps.com/rhtap/backend-tests-go-pxqamwgj:github-a0680d07030a100160b6a9f525d51dca6735dc2d
           name: container-image
